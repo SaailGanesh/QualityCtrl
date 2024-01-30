@@ -1,0 +1,55 @@
+Assignment_id/User_id/PD_result/Pattern/Repetition
+1151/10182/Not_found
+1151/10230/Not_found
+1151/10231/Not_found
+1151/10204/Found/('1', '-1', '1')/6
+1151/10181/Not_found
+1151/10235/Not_found
+1151/10205/Not_found
+1151/10225/Not_found
+1151/10196/Not_found
+1151/10187/Not_found
+1151/10202/Not_found
+1151/10266/Not_found
+1151/10224/Not_found
+1151/10244/Found/('1', '1', '-1')/17
+1151/10214/Not_found
+1151/10201/Found/('1', '-1', '1')/8
+1151/10271/Not_found
+1151/10223/Not_found
+1151/10242/Not_found
+1151/10248/Not_found
+1151/10249/Not_found
+1151/10206/Not_found
+1151/10191/Not_found
+1151/10203/Found/('-1', '1', '1')/17
+1151/10192/Found/('1', '-1', '1')/8
+1151/10193/Not_found
+1151/10219/Found/('1', '-1', '1')/5
+1151/10234/Not_found
+1151/10238/Not_found
+1151/10227/Not_found
+1151/10216/Found/('-1', '1')/9
+1151/10183/Not_found
+1151/10178/Not_found
+1151/10208/Not_found
+1151/10220/Not_found
+1151/10226/Not_found
+1151/10215/Not_found
+1151/10210/Not_found
+1151/10233/Not_found
+1151/10270/Not_found
+1151/10222/Found/('1', '-1', '-1')/5
+1151/10195/Not_found
+1151/10207/Not_found
+1151/10186/Not_found
+1151/10176/Not_found
+1151/10250/Not_found
+1151/10240/Not_found
+1151/10251/Not_found
+1151/10252/Not_found
+1151/10229/Not_found
+1151/10262/Not_found
+1151/10254/Not_found
+1151/10265/Not_found
+1151/10194/Not_found
