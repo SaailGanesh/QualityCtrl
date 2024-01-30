@@ -130,6 +130,5 @@ dmypy.json
 
 # SQL extensions
 *.sql
-
 *.csv
 .xlsx
