@@ -10,7 +10,7 @@
 
 **4.** [TagClassifier.py](#tagclassifierpy) 
 
-**5.** [PatternDetection.py](#patterndetectionpy)
+**5.** [PatternDetection.py (Refactored)](#patterndetectionpy-refactored)
 
 **6.** [Generated CSV Files](#generated-csv-files)
 
@@ -84,7 +84,7 @@ This component categorizes tags as either reliable or unreliable, employing vari
 
 - For each iteration of the 2D array, we get a new `tagpromptID`, and we determine the most common rating for that ID. It then calculates the fraction of users who agree with the common rating and who don’t. The values are returned by the function in the form of a dictionary.
 <br><br><br>
-## PatternDetection.py
+## PatternDetection.py (Refactored)
 
 This Python code defines a class called `PatternDetection`, which contains methods for detecting patterns in binary data. Here is an explanation of each part of the code:
 <br><br>
