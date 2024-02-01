@@ -12,7 +12,7 @@
 
 **5.** [PatternDetection.py](#patterndetectionpy)
 
-**6.** [CSV Files](#csv-files)
+**6.** [Generated CSV Files](#generated-csv-files)
 
 <br>
 
