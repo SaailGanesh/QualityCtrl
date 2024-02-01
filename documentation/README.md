@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-**1.** [ASSEMBLY.PY](#assemblypy)
+**1.** [Assembly.PY](#assemblypy)
 
 **2.** [MySQL.py](#mysqlpy)
 
@@ -16,7 +16,7 @@
 
 <br>
 
-## ASSEMBLY.PY
+## Assembly.py
 
 The `assembly.py` file serves as the master file for the application, housing wrapper functions for various features. The core logic for each feature resides in separate files, including `TaggerClassifier`, `PatternDetection_refactored`, `MySQL`, and `TagClassifier`. Additionally, users have the flexibility to provide arguments such as Minimum Log Time, Minimum Value of Alpha, Minimum Pattern Length, Minimum Pattern Repetition, and Maximum Pattern Length while executing the file.
 <br><br>
