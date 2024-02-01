@@ -3,6 +3,16 @@ This repository is created for Quality Control of Crowd Labeling Project under P
 
 <br>
 
+## Table of Contents
+
+**1.** [Abstract](#abstract)
+
+**2.** [Used Database Tables](#used-database-tables)
+
+**3.** [Quality Control - Setup and Execution](#quality-control---setup-and-execution)
+
+<br>
+
 ## Abstract
 Peer-assessment-based educational methods are becoming more widespread. These methods involve students reviewing projects and comments created by their peers and providing suggestions for improvement. However, the effectiveness of this process depends on the quality of the comments in the reviews. We have devised natural-language processing approaches to evaluate review comments based on machine learning. The accuracy of these approaches depends on the quality of the training data.  Our training data consists of comments labeled by students as containing or not containing certain characteristics, such as suggestions or explanations.  This paper reports on our strategies for automatically vetting labels (“tags”) assigned by students.
 
@@ -10,7 +20,7 @@ But can we validate the quality of student tagging?  To measure the quality of i
 
 <br>
 
-## Database Tables used:
+## Used Database Tables
 
 **ALL THE HYPERLINKS ARE NOT WORKING**
 
@@ -45,13 +55,9 @@ Link to all the Tables in the Database: [Documentation on Database Tables](https
 
 ## Quality Control - Setup and Execution
 
-<br>
-
 ### For Windows
 
 #### Installing Chocolatey and MySQL on Your System
-
-**Installing Chocolatey for MySQL on Windows**
 
 To set up Chocolatey and MySQL on your system, follow these steps:
 
@@ -91,7 +97,9 @@ To set up Chocolatey and MySQL on your system, follow these steps:
 
 <br>
 
-### Creating the Expertiza Database Locally
+#### Creating the Expertiza Database Locally
+
+<br>
 
 1. **Obtain the Database Dump File:**
    Request access to the database dump file from your professor. Download and save it in your working directory; the filename might be "expertiza_production.sql" or "expertiza_production_backup.sql."
@@ -127,7 +135,9 @@ To set up Chocolatey and MySQL on your system, follow these steps:
 
 <br>
 
-### Executing the Developed Code
+#### Executing the Developed Code
+
+<br>
 
 1. **Download or Clone the Project:**
    Obtain the project from the [GitHub repository](https://github.com/repository-link). Use the following command to clone the repository:
