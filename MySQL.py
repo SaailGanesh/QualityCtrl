@@ -4,6 +4,7 @@ from Models.Assignment import Assignment
 from Models.Team import Team
 from Models.User import User
 from Models.UserHistory import UserHistory
+import mysql
 import mysql.connector
 import csv
 
